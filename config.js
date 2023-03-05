@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Vixeliz',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://projects.playspacefarer.com/board/2',
 		},
 		{
 			id: '4',
